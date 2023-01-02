@@ -1,0 +1,5 @@
+HP network, izhodna moc +10dBm
+
+Med meritvami je MCu pociljal komunikacijo na ATT vsakih 10 mS
+
+Kalibrirano s standardi na roke networka, brez upoštevanja kitajskih konektorjev na prototipu

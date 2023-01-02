@@ -1,0 +1,261 @@
+# depslib dependency file v1.0
+1614853982 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\attenuator.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1461857503 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\stm32f0xx.h
+	"stm32f030x6.h"
+	"stm32f030x8.h"
+	"stm32f031x6.h"
+	"stm32f038xx.h"
+	"stm32f042x6.h"
+	"stm32f048xx.h"
+	"stm32f051x8.h"
+	"stm32f058xx.h"
+	"stm32f070x6.h"
+	"stm32f070xb.h"
+	"stm32f071xb.h"
+	"stm32f072xb.h"
+	"stm32f078xx.h"
+	"stm32f091xc.h"
+	"stm32f098xx.h"
+	"stm32f030xc.h"
+	"stm32f0xx_hal.h"
+
+1461857585 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\stm32f030x6.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+
+1461857423 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\cmsis\core_cm0.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1461857453 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1461857439 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1461857483 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\system_stm32f0xx.h
+
+1617358920 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\pinout.h
+
+1614201039 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\delay.h
+
+1636549885 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\calibration.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"delay.h"
+
+1461874114 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\delay.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+
+1617360832 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\display.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+	"display.h"
+
+1614605005 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\display.h
+
+1616059837 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\flash.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+
+1614466778 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\lcd.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+	"lcd.h"
+
+1614465748 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\lcd.h
+
+1643278130 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+	"menu.h"
+	"max2871.h"
+	"display.h"
+	"attenuator.h"
+	"calibration.h"
+	"modulation.h"
+	"flash.h"
+
+1615135664 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\usart.h
+
+1615977634 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\menu.h
+
+1614885523 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\max2871.h
+
+1614854065 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\attenuator.h
+
+1615197041 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\calibration.h
+
+1615406911 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\modulation.h
+
+1615981649 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\flash.h
+
+1615065783 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\max2871.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1615981340 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\menu.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+	"display.h"
+	"calibration.h"
+	"modulation.h"
+	"flash.h"
+	"max2871.h"
+	"attenuator.h"
+
+1617360444 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\modulation.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	"pinout.h"
+
+1461875334 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\pcd8544.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pcd8544.h"
+	"delay.h"
+
+1461873550 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\inc\pcd8544.h
+
+1462130748 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\startup_stm32f0xx.s
+
+1461857618 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1615587068 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor 6 ghz\ebitz2_izvor_6_ghz_stm32f030k6\ebitz2_izvor_6_ghz_stm32f030k6\src\usart.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"delay.h"
+	"usart.h"
+	"attenuator.h"
+
+1648919567 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\delay.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+
+1461861103 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\stm32f0xx.h
+	"stm32f030x6.h"
+	"stm32f030x8.h"
+	"stm32f031x6.h"
+	"stm32f038xx.h"
+	"stm32f042x6.h"
+	"stm32f048xx.h"
+	"stm32f051x8.h"
+	"stm32f058xx.h"
+	"stm32f070x6.h"
+	"stm32f070xb.h"
+	"stm32f071xb.h"
+	"stm32f072xb.h"
+	"stm32f078xx.h"
+	"stm32f091xc.h"
+	"stm32f098xx.h"
+	"stm32f030xc.h"
+	"stm32f0xx_hal.h"
+
+1461861185 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\stm32f030x6.h
+	"core_cm0.h"
+	"system_stm32f0xx.h"
+	<stdint.h>
+
+1461861023 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\cmsis\core_cm0.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1461861053 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1461861039 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1461861083 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\system_stm32f0xx.h
+
+1462134348 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\startup_stm32f0xx.s
+
+1461861218 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\system_stm32f0xx.c
+	"stm32f0xx.h"
+
+1650301925 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+	"attenuator.h"
+
+1648920231 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\pinout.h
+
+1614204639 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\delay.h
+
+1648920335 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\usart.h
+
+1614857665 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\inc\attenuator.h
+
+1648920734 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\usart.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"delay.h"
+	"usart.h"
+	"attenuator.h"
+
+1648920772 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\slabilec pe43711b\program\pe43711b_stm32f030k6\src\attenuator.c
+	"stm32f0xx.h"
+	"system_stm32f0xx.h"
+	"pinout.h"
+	"delay.h"
+
