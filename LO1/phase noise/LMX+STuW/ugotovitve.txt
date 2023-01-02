@@ -1,0 +1,1 @@
+5kHz filter ne deluje, prevec spick (oscliliranje)

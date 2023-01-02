@@ -1,0 +1,505 @@
+<html>
+  <head>
+    <title>All Data Report</title>
+    
+  </head>
+  <body bgcolor="white">
+    <p align="right">
+      <img width="93" border="0" height="66" src="C:\Program Files (x86)\STMicroelectronics\STWPLLSim_v5.3\jdevhome\mywork\Workspace_HPC_PLL_v5\Project_PLL\classes\pkgPLL\images\logo_new_ST.png">
+      
+    </p>
+    <b><font color="blue" size="6">STuW81300 All Design Data Report </font></b>
+
+    <center>
+      <table width="100%" border="0" align="center">
+        <tr>
+          <td align="left">
+            <img width="600" height="5" src="C:\Program Files (x86)\STMicroelectronics\STWPLLSim_v5.3\jdevhome\mywork\Workspace_HPC_PLL_v5\Project_PLL\classes\pkgPLL\images\linea.gif">
+            
+          </td>
+        </tr>
+      </table>
+      <br>
+      <br>
+      <b><font color="blue" size="5">SYNTHESIZER SPECIFICATIONS </font></b><br>
+
+      <table width="80%" border="0" align="center">
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Reference Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">F<sub>ref</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">645 MHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Detector Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">F<sub>pfd</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">80.625 MHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Charge Pump Current </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">I<sub>cp</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">3.002 mA </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">VCO Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">F<sub>vco</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">5000 MHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">VCO Gain </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">K<sub>vco</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">50 MHz/V </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">LO Output Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">F<sub>out</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">5000 MHz </font>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <b><font color="blue" size="5">BILL OF MATERIALS </font></b><br>
+
+      <table width="80%" border="0" align="center">
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Loop Filter Components: </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Resistor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">R1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">16 &#937; </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Capacitor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">C1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">3300 nF </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Capacitor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">C2 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">100 nF </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Resistor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">R3 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">30 &#937; </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Capacitor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">C3 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">22 nF </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Resistor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">R4 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">33 &#937; </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Capacitor </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">C4 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">24 nF </font>
+          </td>
+        </tr>
+      </table>
+      <br>
+      <b><font color="blue" size="5">PARAMETERS </font></b><br>
+
+      <table width="80%" border="0" align="center">
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Loop Filter Parameters: </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">First Zero Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fz1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">3 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">First Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">0 Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Second Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp2 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">50.2 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Fourth Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp4 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">599.2 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Fifth Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp5 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">212870.4 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Open loop Parameters: </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Transition Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">F<sub>t</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">6.7 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Margin </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">m<sub>&#934;</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">55.2 deg </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">First Zero Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fz1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">3 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">First Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp1 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">0 Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Second Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp2 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">50.2 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Fourth Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp4 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">599.2 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Fifth Pole Frequency </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">fp5 </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">212870.4 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Closed loop Parameters: </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">PLL 3dB Bandwidth </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">BW<sub>3dB</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">11.2 KHz </font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Overall Phase Noise </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b><font color="blue" size="4">( Integrated in [ 100 , 100M ] Hz 
+            ): </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" align="left">
+            <font color="BLACK" size="4">Integrated Phase Noise Degrees (SSB) </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN_integ_deg </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">1.87 degrees (rms) </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" align="left">
+            <font color="BLACK" size="4">Integrated Phase Noise dBc (SSB) </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN_integ_dBc </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-32.738 dBc </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" align="left">
+            <font color="BLACK" size="4">RMS Jitter </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">Jitter </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">1.039 ps </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 1 KHz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>1K</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-76.664 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 10 KHz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>10K</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-76.636 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 100 KHz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>100K</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-105.557 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 1 MHz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>1M</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-131.24 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 10 MHz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>10M</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-150.461 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Noise @ 0.5M Hz </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">PN<sub>@ User Freq</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">-125.119 dBc/Hz </font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b><font color="blue" size="4">Transient Parameters: </font></b>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Freq Settling Time within 1.0 ppm </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">T<sub>freq lock</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">0 &#956;s </font>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" nowrap="nowrap" align="left">
+            <font color="BLACK" size="4">Phase Settling Time within 5.0 
+            degrees </font>
+          </td>
+          <td width="20%" align="left">
+            <font color="BLACK" size="4">T<sub>phase lock</sub> </font>
+          </td>
+          <td width="30%" align="right">
+            <font color="BLACK" size="4">257.994 &#956;s </font>
+          </td>
+        </tr>
+      </table>
+    </center>
+    <br>
+  </body>
+</html>
