@@ -1,0 +1,1 @@
+Pri začetnih meritvah je bil slab vir REF ure z generatorjem ne oscilatorjem, zato slab fazni šum!

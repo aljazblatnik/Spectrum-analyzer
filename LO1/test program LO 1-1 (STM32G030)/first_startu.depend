@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\startup_stm32g0b0xx.s
+
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\system_stm32g0xx.c
+	"stm32g0xx.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\stm32g0xx.h
+	"stm32g0b1xx.h"
+	"stm32g0c1xx.h"
+	"stm32g0b0xx.h"
+	"stm32g071xx.h"
+	"stm32g081xx.h"
+	"stm32g070xx.h"
+	"stm32g031xx.h"
+	"stm32g041xx.h"
+	"stm32g030xx.h"
+	"stm32g051xx.h"
+	"stm32g061xx.h"
+	"stm32g050xx.h"
+	"stm32g0xx_hal.h"
+
+1644166884 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\stm32g0b0xx.h
+	"core_cm0plus.h"
+	"system_stm32g0xx.h"
+	<stdint.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\cmsis\core_cm0plus.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\cmsis\cmsis_version.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\cmsis\cmsis_gcc.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\cmsis\mpu_armv7.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\system_stm32g0xx.h
+
+1644411065 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\main.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"usart.h"
+	"delay.h"
+	"stuw81300.h"
+
+1644398555 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\usart.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usart.h"
+	"stuw81300.h"
+
+1644396181 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\usart.h
+
+1644410973 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\pinout.h
+
+1644166335 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\delay.h
+
+1644167505 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\inc\stuw81300.h
+
+1644411531 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\stuw81300.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1644166647 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g0b0ke\startup\first_startu\src\delay.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+
+1644517651 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\main.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"usart.h"
+	"delay.h"
+	"stuw81300.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\stm32g0xx.h
+	"stm32g0b1xx.h"
+	"stm32g0c1xx.h"
+	"stm32g0b0xx.h"
+	"stm32g071xx.h"
+	"stm32g081xx.h"
+	"stm32g070xx.h"
+	"stm32g031xx.h"
+	"stm32g041xx.h"
+	"stm32g030xx.h"
+	"stm32g051xx.h"
+	"stm32g061xx.h"
+	"stm32g050xx.h"
+	"stm32g0xx_hal.h"
+
+1644166884 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\stm32g0b0xx.h
+	"core_cm0plus.h"
+	"system_stm32g0xx.h"
+	<stdint.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\cmsis\core_cm0plus.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\cmsis\cmsis_version.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\cmsis\cmsis_gcc.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\cmsis\mpu_armv7.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\system_stm32g0xx.h
+
+1644410973 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\pinout.h
+
+1644396181 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\usart.h
+
+1644166335 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\delay.h
+
+1644516975 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\inc\stuw81300.h
+
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\startup_stm32g0b0xx.s
+
+1644517378 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\stuw81300.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\system_stm32g0xx.c
+	"stm32g0xx.h"
+
+1644398555 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\usart.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usart.h"
+	"stuw81300.h"
+
+1644166647 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor stuw81300\mcu program\development\src\delay.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+
+1645457584 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\lmx2491.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\stm32g0xx.h
+	"stm32g0b1xx.h"
+	"stm32g0c1xx.h"
+	"stm32g0b0xx.h"
+	"stm32g071xx.h"
+	"stm32g081xx.h"
+	"stm32g070xx.h"
+	"stm32g031xx.h"
+	"stm32g041xx.h"
+	"stm32g030xx.h"
+	"stm32g051xx.h"
+	"stm32g061xx.h"
+	"stm32g050xx.h"
+	"stm32g0xx_hal.h"
+
+1644166884 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\stm32g0b0xx.h
+	"core_cm0plus.h"
+	"system_stm32g0xx.h"
+	<stdint.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\cmsis\core_cm0plus.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\cmsis\cmsis_version.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\cmsis\cmsis_gcc.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\cmsis\mpu_armv7.h
+
+1643201953 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\system_stm32g0xx.h
+
+1645438748 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\pinout.h
+
+1644166335 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\delay.h
+
+1645454587 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\main.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"usart.h"
+	"delay.h"
+	"lmx2491.h"
+
+1644396181 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\usart.h
+
+1645454856 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\inc\lmx2491.h
+
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\startup_stm32g0b0xx.s
+
+1643201953 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\system_stm32g0xx.c
+	"stm32g0xx.h"
+
+1645457673 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\usart.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usart.h"
+	"lmx2491.h"
+
+1644166647 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program\development\src\delay.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+
+1663086373 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\lmx2491.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"delay.h"
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\stm32g0xx.h
+	"stm32g0b1xx.h"
+	"stm32g0c1xx.h"
+	"stm32g0b0xx.h"
+	"stm32g071xx.h"
+	"stm32g081xx.h"
+	"stm32g070xx.h"
+	"stm32g031xx.h"
+	"stm32g041xx.h"
+	"stm32g030xx.h"
+	"stm32g051xx.h"
+	"stm32g061xx.h"
+	"stm32g050xx.h"
+	"stm32g0xx_hal.h"
+
+1644170484 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\stm32g0b0xx.h
+	"core_cm0plus.h"
+	"system_stm32g0xx.h"
+	<stdint.h>
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\cmsis\core_cm0plus.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\cmsis\cmsis_version.h
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\cmsis\cmsis_gcc.h
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\cmsis\mpu_armv7.h
+
+1643205553 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\system_stm32g0xx.h
+
+1662978459 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\pinout.h
+
+1644169935 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\delay.h
+
+1662664710 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\main.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	"pinout.h"
+	"usart.h"
+	"delay.h"
+	"lmx2491.h"
+
+1644399781 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\usart.h
+
+1645458456 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\inc\lmx2491.h
+
+1643205553 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\startup_stm32g0b0xx.s
+
+1643205553 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\system_stm32g0xx.c
+	"stm32g0xx.h"
+
+1645461273 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\usart.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usart.h"
+	"lmx2491.h"
+
+1644170247 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\izvor lmx2491 and stuw81300\mcu program ref\development\src\delay.c
+	"stm32g0xx.h"
+	"stm32g0b0xx.h"
+
