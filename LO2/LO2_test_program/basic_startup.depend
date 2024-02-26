@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1668535112 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\startup_stm32g441xx.s
+
+1674119768 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\frequency_control.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"lmx2491.h"
+	"stuW81300.h"
+	"pinout.h"
+	"delay.h"
+	"frequency_control.h"
+
+1668535855 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\stm32g4xx.h
+	"stm32g431xx.h"
+	"stm32g441xx.h"
+	"stm32g471xx.h"
+	"stm32g473xx.h"
+	"stm32g483xx.h"
+	"stm32g474xx.h"
+	"stm32g484xx.h"
+	"stm32g491xx.h"
+	"stm32g4a1xx.h"
+	"stm32gbk1cb.h"
+	"stm32g4xx_hal.h"
+
+1668535836 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\stm32g441xx.h
+	"core_cm4.h"
+	"system_stm32g4xx.h"
+	<stdint.h>
+
+1668535113 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\cmsis\core_cm4.h
+	<stdint.h>
+	"cmsis_version.h"
+	"cmsis_compiler.h"
+	"mpu_armv7.h"
+
+1668535113 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\cmsis\cmsis_version.h
+
+1668535113 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\cmsis\cmsis_compiler.h
+	<stdint.h>
+	"cmsis_armcc.h"
+	"cmsis_armclang_ltm.h"
+	"cmsis_armclang.h"
+	"cmsis_gcc.h"
+	<cmsis_iccarm.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1668535113 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\cmsis\cmsis_gcc.h
+
+1668535113 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\cmsis\mpu_armv7.h
+
+1668535680 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\system_stm32g4xx.h
+
+1673863664 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\lmx2491.h
+
+1671138904 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\stuw81300.h
+
+1673873902 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\pinout.h
+
+1668537096 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\delay.h
+
+1673874636 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\frequency_control.h
+	"structs.h"
+
+1674061731 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\structs.h
+
+1674035425 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\lmx2491.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+
+1668690766 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\usart.h
+
+1673877086 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\main.c
+	"main.h"
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"stdint.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+	"spi_comm.h"
+	"shift_reg.h"
+	"max2870.h"
+	"lmx2491.h"
+	"stuW81300.h"
+	"pe43711.h"
+	"frequency_control.h"
+
+1668537464 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\main.h
+
+1668796333 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\spi_comm.h
+
+1669302169 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\shift_reg.h
+
+1670606980 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\max2870.h
+
+1671140775 c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\inc\pe43711.h
+
+1673873949 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\max2870.c
+	"main.h"
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"stdint.h"
+	"pinout.h"
+	"delay.h"
+	"shift_reg.h"
+	"structs.h"
+	"usart.h"
+
+1673873965 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\pe43711.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"pinout.h"
+	"structs.h"
+	"shift_reg.h"
+	"delay.h"
+
+1673873918 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\shift_reg.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"stdint.h"
+	"pinout.h"
+	"delay.h"
+	"shift_reg.h"
+	"structs.h"
+
+1672055209 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\spi_comm.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"stdint.h"
+	"pinout.h"
+	"delay.h"
+
+1670625529 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\delay.c
+	"stm32g4xx.h"
+
+1673872603 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\stuw81300.c
+	"stm32g4xx.h"
+	"stm32g441xx.h"
+	"pinout.h"
+	"delay.h"
+	"usart.h"
+
+1668535660 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\system_stm32g4xx.c
+	"stm32g4xx.h"
+
+1671141333 source:c:\users\aljaz\onedrive - univerza v ljubljani\doktorat\novi sa\mcu stm32g441\basic_startup\basic_startup\src\usart.c
+	"stm32g4xx.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usart.h"
+	"delay.h"
+	"lmx2491.h"
+	"stuW81300.h"
+	"frequency_control.h"
+	"pe43711.h"
+
