@@ -11,17 +11,22 @@ The diagram of the second local oscillator is shown in the figure below:
 The reference clock is provided by a master 40 MHz crystal oscillator common to the LO1. The decrease in the the output power is compensated by the GVA-63+ amplifier. The output power reaches approximately +10 dBm. The circuit gets slightly warm to the touch during continuous operation in a closed case (the LD1117S33 linear regulator contributes the most to this). A light-emitting diode signals the successful PLL-lock state.
 The phase detector operates at 10 MHz (the internal reference clock is divided by 4). Loop-filter is designed to have a 60° phase margin. The phase noise of the final prototype at 4.23 GHz is shown in the figure below:
 
-![Phase noise](measurements/phaise_noise.svg?raw=true "Phase noise")
+<img src="measurements/phaise_noise.svg" width="60%">
 
 ## Building
 
 All capacitors below 100 nF are NP0/CG0 type. Some capacitors (eg 1uF and 100nF) are placed on top of each other due to lack of space on the PCB. Communication takes place via the SPI bus, and all connections to the circuit are made via SMD feed-trough capacitors. The local oscillator is built on two-layer FR4 board. In the presented prototype, MAX2870 is used instead of the MAX2871, since the latter was not available. The difference is lower power consumption (~20 mA), but worse phase noise (~5 dB) and larger reference clock crosstalk visible on the output spectrum, which appears ±40 MHz from the carrier signal with an amplitude of about – 55 dBc. The problem disappears by using the MAX2871, without any changes to the programming code or the loop filter. The PCB is installed in a brass case with a suitable cover. High-frequency signals are routed to and from the housing with coaxial cables.
 
+The following pictures show the top and bottom layout of the components. FB indicates the ferrite bead, which should have as high as possible resistance at 100 MHz (0805 case). Some of the capacitors are feed-trough (0805 case). The manufacturer is not critical, but the voltage rating should be 6V or more. The product number for the 10uH coil is LAIRD TYS4012100M-10.
+
+![Components placement TOP](component_placement_SMD_LO2_top.png?raw=true "Components placement TOP")
+![Components placement BOTTOM](component_placement_SMD_LO2_bottom.png?raw=true "Components placement BOTTOM")
+
 ## Testing
 
 The module must be tested before installation in the housing. We do this with the help of the main MCU board and the test program, where the connections are created according to the following diagram:
 
-![LO2 Test connections](LO2_test_program_connections.svg?raw=true "LO2 Test connections")
+<img src="LO2_test_program_connections.svg" width="40%">
 
 The test program, in form of a .hex file, can be [found here](LO2_test_program/bin/Release/basic_startup.hex). At startup, the program configures the PLL chip and tries to set the frequency to 4.23 GHz. Then checks the lock condition and performs a test read of the R6 register. Communication takes place via a USB-serial connection using a terminal (eg Putty). The default baud rate is 9600 bps, no parity, and 1 stop bit. It can then accepts commands but only two:
 
