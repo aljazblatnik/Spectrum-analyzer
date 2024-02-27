@@ -2,11 +2,11 @@
 The design of the second local oscillator is much simpler. As the center frequency is precisely determined by the band-pass filter (after the first mixer), we only have about 10 MHz of bandwidth available, in which the frequency of the LO2 can be changed. For this task the well-tested solution with the MAX2871 chip and the GVA-63+ amplifier was choosen.
 Like the STuW81300, the MAX2871 has an internal bank of oscillators between which the state machine switches, depending on the N divider setting. Due to operation in a narrow frequency band, switching between oscillators does not occur (in our case).
 
-![LO2 picture](photo/LO2_in_case.jpg?raw=true "LO2 picture")
+![LO2 picture](photo/LO2_in_case.jpg "LO2 picture")
 
 The diagram of the second local oscillator is shown in the figure below:
 
-![schematic](LO2_schematic.svg?raw=true "LO2 schematic")
+![schematic](LO2_schematic.svg "LO2 schematic")
 
 The reference clock is provided by a master 40 MHz crystal oscillator common to the LO1. The decrease in the the output power is compensated by the GVA-63+ amplifier. The output power reaches approximately +10 dBm. The circuit gets slightly warm to the touch during continuous operation in a closed case (the LD1117S33 linear regulator contributes the most to this). A light-emitting diode signals the successful PLL-lock state.
 The phase detector operates at 10 MHz (the internal reference clock is divided by 4). Loop-filter is designed to have a 60° phase margin. The phase noise of the final prototype at 4.23 GHz is shown in the figure below:
@@ -19,8 +19,8 @@ All capacitors below 100 nF are NP0/CG0 type. Some capacitors (eg 1uF and 100nF)
 
 The following pictures show the top and bottom layout of the components. FB indicates the ferrite bead, which should have as high as possible resistance at 100 MHz (0805 case). Some of the capacitors are feed-trough (0805 case). The manufacturer is not critical, but the voltage rating should be 6V or more. The product number for the 10uH coil is LAIRD TYS4012100M-10.
 
-![Components placement TOP](component_placement_SMD_LO2_top.png?raw=true "Components placement TOP")
-![Components placement BOTTOM](component_placement_SMD_LO2_bottom.png?raw=true "Components placement BOTTOM")
+![Components placement TOP](component_placement_SMD_LO2_top.png "Components placement TOP")
+![Components placement BOTTOM](component_placement_SMD_LO2_bottom.png "Components placement BOTTOM")
 
 ## Testing
 
